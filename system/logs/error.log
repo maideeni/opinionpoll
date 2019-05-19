@@ -1,0 +1,114 @@
+2019-05-17 16:20:22 - PHP Unknown:  Object of class Front could not be converted to string in /var/www/html/opinionpoll/index.php on line 98
+2019-05-18 5:07:21 - PHP Notice:  Undefined variable: data in /var/www/html/opinionpoll/app/controller/opinionpoll/opinion.php on line 7
+2019-05-18 5:07:21 - PHP Notice:  Error: Could not load template /var/www/html/opinionpoll/app/view/theme/default/template/opinion.tpl! in /var/www/html/opinionpoll/system/engine/loader.php on line 45
+2019-05-18 5:08:43 - PHP Notice:  Error: Could not load template /var/www/html/opinionpoll/app/view/theme/template/opinionpoll/opinion.tpl! in /var/www/html/opinionpoll/system/engine/loader.php on line 45
+2019-05-18 5:11:11 - PHP Notice:  Error: Could not load template /var/www/html/opinionpoll/app/view/template/opinionpoll/opinion.tpl! in /var/www/html/opinionpoll/system/engine/loader.php on line 45
+2019-05-18 5:11:26 - PHP Notice:  Error: Could not load template /var/www/html/opinionpoll/app/view/template/opinionpoll/opinion.tpl! in /var/www/html/opinionpoll/system/engine/loader.php on line 45
+2019-05-18 5:11:28 - PHP Notice:  Error: Could not load template /var/www/html/opinionpoll/app/view/template/opinionpoll/opinion.tpl! in /var/www/html/opinionpoll/system/engine/loader.php on line 45
+2019-05-18 5:22:41 - PHP Notice:  Undefined variable: lang in /var/www/html/opinionpoll/app/view/template/opinionpoll/opinion.tpl on line 3
+2019-05-18 5:22:41 - PHP Notice:  Undefined variable: lang in /var/www/html/opinionpoll/app/view/template/opinionpoll/opinion.tpl on line 4
+2019-05-18 5:22:41 - PHP Notice:  Undefined variable: direction in /var/www/html/opinionpoll/app/view/template/opinionpoll/opinion.tpl on line 6
+2019-05-18 5:22:41 - PHP Notice:  Undefined variable: lang in /var/www/html/opinionpoll/app/view/template/opinionpoll/opinion.tpl on line 6
+2019-05-18 5:22:41 - PHP Notice:  Undefined variable: title in /var/www/html/opinionpoll/app/view/template/opinionpoll/opinion.tpl on line 11
+2019-05-18 5:22:41 - PHP Notice:  Undefined variable: base in /var/www/html/opinionpoll/app/view/template/opinionpoll/opinion.tpl on line 12
+2019-05-18 5:22:41 - PHP Notice:  Undefined variable: description in /var/www/html/opinionpoll/app/view/template/opinionpoll/opinion.tpl on line 13
+2019-05-18 5:22:41 - PHP Notice:  Undefined variable: keywords in /var/www/html/opinionpoll/app/view/template/opinionpoll/opinion.tpl on line 16
+2019-05-18 5:22:44 - PHP Notice:  Undefined variable: lang in /var/www/html/opinionpoll/app/view/template/opinionpoll/opinion.tpl on line 3
+2019-05-18 5:22:44 - PHP Notice:  Undefined variable: lang in /var/www/html/opinionpoll/app/view/template/opinionpoll/opinion.tpl on line 4
+2019-05-18 5:22:44 - PHP Notice:  Undefined variable: direction in /var/www/html/opinionpoll/app/view/template/opinionpoll/opinion.tpl on line 6
+2019-05-18 5:22:44 - PHP Notice:  Undefined variable: lang in /var/www/html/opinionpoll/app/view/template/opinionpoll/opinion.tpl on line 6
+2019-05-18 5:22:44 - PHP Notice:  Undefined variable: title in /var/www/html/opinionpoll/app/view/template/opinionpoll/opinion.tpl on line 11
+2019-05-18 5:22:44 - PHP Notice:  Undefined variable: base in /var/www/html/opinionpoll/app/view/template/opinionpoll/opinion.tpl on line 12
+2019-05-18 5:22:44 - PHP Notice:  Undefined variable: description in /var/www/html/opinionpoll/app/view/template/opinionpoll/opinion.tpl on line 13
+2019-05-18 5:22:44 - PHP Notice:  Undefined variable: keywords in /var/www/html/opinionpoll/app/view/template/opinionpoll/opinion.tpl on line 16
+2019-05-18 5:24:29 - PHP Notice:  Undefined variable: base in /var/www/html/opinionpoll/app/view/template/opinionpoll/opinion.tpl on line 12
+2019-05-18 5:25:00 - PHP Notice:  Undefined variable: HTTP_SERVER in /var/www/html/opinionpoll/app/view/template/opinionpoll/opinion.tpl on line 12
+2019-05-18 5:25:01 - PHP Notice:  Undefined variable: HTTP_SERVER in /var/www/html/opinionpoll/app/view/template/opinionpoll/opinion.tpl on line 12
+2019-05-18 5:47:13 - PHP Notice:  Undefined variable: action in /var/www/html/opinionpoll/app/view/template/opinionpoll/opinion.tpl on line 30
+2019-05-18 5:49:19 - PHP Notice:  Undefined variable: action in /var/www/html/opinionpoll/app/view/template/opinionpoll/opinion.tpl on line 30
+2019-05-18 5:50:18 - PHP Notice:  Undefined variable: action in /var/www/html/opinionpoll/app/view/template/opinionpoll/opinion.tpl on line 30
+2019-05-18 5:53:50 - PHP Notice:  Undefined variable: action in /var/www/html/opinionpoll/app/view/template/opinionpoll/opinion.tpl on line 30
+2019-05-18 5:54:45 - PHP Notice:  Undefined variable: action in /var/www/html/opinionpoll/app/view/template/opinionpoll/opinion.tpl on line 30
+2019-05-18 5:55:00 - PHP Notice:  Undefined variable: action in /var/www/html/opinionpoll/app/view/template/opinionpoll/opinion.tpl on line 30
+2019-05-18 5:55:01 - PHP Notice:  Undefined variable: action in /var/www/html/opinionpoll/app/view/template/opinionpoll/opinion.tpl on line 30
+2019-05-18 5:55:01 - PHP Notice:  Undefined variable: action in /var/www/html/opinionpoll/app/view/template/opinionpoll/opinion.tpl on line 30
+2019-05-18 5:56:13 - PHP Notice:  Undefined variable: action in /var/www/html/opinionpoll/app/view/template/opinionpoll/opinion.tpl on line 30
+2019-05-18 5:57:19 - PHP Notice:  Undefined variable: action in /var/www/html/opinionpoll/app/view/template/opinionpoll/opinion.tpl on line 30
+2019-05-18 5:57:52 - PHP Notice:  Undefined variable: action in /var/www/html/opinionpoll/app/view/template/opinionpoll/opinion.tpl on line 30
+2019-05-18 5:57:53 - PHP Notice:  Undefined variable: action in /var/www/html/opinionpoll/app/view/template/opinionpoll/opinion.tpl on line 30
+2019-05-18 5:58:03 - PHP Notice:  Undefined variable: action in /var/www/html/opinionpoll/app/view/template/opinionpoll/opinion.tpl on line 30
+2019-05-18 5:58:31 - PHP Notice:  Undefined variable: action in /var/www/html/opinionpoll/app/view/template/opinionpoll/opinion.tpl on line 30
+2019-05-19 4:51:15 - PHP Warning:  Use of undefined constant questions - assumed 'questions' (this will throw an Error in a future version of PHP) in /var/www/html/opinionpoll/app/view/template/opinionpoll/opinion.tpl on line 31
+2019-05-19 4:52:20 - PHP Notice:  Undefined index: question_id in /var/www/html/opinionpoll/app/controller/opinionpoll/opinion.php on line 18
+2019-05-19 4:52:20 - PHP Notice:  Undefined index: title in /var/www/html/opinionpoll/app/controller/opinionpoll/opinion.php on line 19
+2019-05-19 4:52:20 - PHP Notice:  Undefined index: country_id in /var/www/html/opinionpoll/app/controller/opinionpoll/opinion.php on line 20
+2019-05-19 4:52:20 - PHP Notice:  Undefined index: status in /var/www/html/opinionpoll/app/controller/opinionpoll/opinion.php on line 21
+2019-05-19 4:52:42 - PHP Notice:  Undefined index: question_id in /var/www/html/opinionpoll/app/controller/opinionpoll/opinion.php on line 18
+2019-05-19 4:52:42 - PHP Notice:  Undefined index: title in /var/www/html/opinionpoll/app/controller/opinionpoll/opinion.php on line 19
+2019-05-19 4:52:42 - PHP Notice:  Undefined index: question_id in /var/www/html/opinionpoll/app/controller/opinionpoll/opinion.php on line 20
+2019-05-19 4:52:42 - PHP Notice:  Undefined index: status in /var/www/html/opinionpoll/app/controller/opinionpoll/opinion.php on line 21
+2019-05-19 4:53:32 - PHP Notice:  Undefined index: question_id in /var/www/html/opinionpoll/app/controller/opinionpoll/opinion.php on line 18
+2019-05-19 4:53:32 - PHP Notice:  Undefined index: title in /var/www/html/opinionpoll/app/controller/opinionpoll/opinion.php on line 19
+2019-05-19 4:53:32 - PHP Notice:  Undefined index: question_id in /var/www/html/opinionpoll/app/controller/opinionpoll/opinion.php on line 20
+2019-05-19 4:53:32 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY a.sort_order, LCASE(a.title)' at line 1<br />Error No: 1064<br />SELECT * FROM answer a WHERE a.question_id = 0ORDER BY a.sort_order, LCASE(a.title) in /var/www/html/opinionpoll/system/library/db/mysqli.php on line 40
+2019-05-19 4:53:32 - PHP Notice:  Trying to get property 'rows' of non-object in /var/www/html/opinionpoll/app/model/opinionpoll/opinion.php on line 13
+2019-05-19 4:53:32 - PHP Notice:  Undefined index: status in /var/www/html/opinionpoll/app/controller/opinionpoll/opinion.php on line 21
+2019-05-19 4:54:22 - PHP Notice:  Undefined index: question_id in /var/www/html/opinionpoll/app/controller/opinionpoll/opinion.php on line 18
+2019-05-19 4:54:22 - PHP Notice:  Undefined index: title in /var/www/html/opinionpoll/app/controller/opinionpoll/opinion.php on line 19
+2019-05-19 4:54:22 - PHP Notice:  Undefined index: question_id in /var/www/html/opinionpoll/app/controller/opinionpoll/opinion.php on line 20
+2019-05-19 4:54:22 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY a.sort_order, LCASE(a.title)' at line 1<br />Error No: 1064<br />SELECT * FROM answer a WHERE a.question_id = 0ORDER BY a.sort_order, LCASE(a.title) in /var/www/html/opinionpoll/system/library/db/mysqli.php on line 40
+2019-05-19 4:54:22 - PHP Notice:  Trying to get property 'rows' of non-object in /var/www/html/opinionpoll/app/model/opinionpoll/opinion.php on line 13
+2019-05-19 4:54:22 - PHP Notice:  Undefined index: status in /var/www/html/opinionpoll/app/controller/opinionpoll/opinion.php on line 21
+2019-05-19 4:54:57 - PHP Notice:  Undefined index: question_id in /var/www/html/opinionpoll/app/controller/opinionpoll/opinion.php on line 18
+2019-05-19 4:54:57 - PHP Notice:  Undefined index: title in /var/www/html/opinionpoll/app/controller/opinionpoll/opinion.php on line 19
+2019-05-19 4:54:57 - PHP Notice:  Undefined index: question_id in /var/www/html/opinionpoll/app/controller/opinionpoll/opinion.php on line 20
+2019-05-19 4:54:57 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY a.sort_order, LCASE(a.title)' at line 1<br />Error No: 1064<br />SELECT * FROM answer a WHERE a.question_id = 0ORDER BY a.sort_order, LCASE(a.title) in /var/www/html/opinionpoll/system/library/db/mysqli.php on line 40
+2019-05-19 4:54:57 - PHP Notice:  Trying to get property 'rows' of non-object in /var/www/html/opinionpoll/app/model/opinionpoll/opinion.php on line 13
+2019-05-19 4:54:57 - PHP Notice:  Undefined index: status in /var/www/html/opinionpoll/app/controller/opinionpoll/opinion.php on line 21
+2019-05-19 4:56:26 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY a.sort_order, LCASE(a.title)' at line 1<br />Error No: 1064<br />SELECT * FROM answer a WHERE a.question_id = 1ORDER BY a.sort_order, LCASE(a.title) in /var/www/html/opinionpoll/system/library/db/mysqli.php on line 40
+2019-05-19 4:56:26 - PHP Notice:  Trying to get property 'rows' of non-object in /var/www/html/opinionpoll/app/model/opinionpoll/opinion.php on line 13
+2019-05-19 5:23:05 - PHP Notice:  Undefined offset: 1 in /var/www/html/opinionpoll/app/controller/opinionpoll/opinion.php on line 61
+2019-05-19 5:25:18 - PHP Notice:  Undefined offset: 2 in /var/www/html/opinionpoll/app/view/template/opinionpoll/opinion.tpl on line 42
+2019-05-19 5:45:40 - PHP Notice:  Undefined variable: answer_id in /var/www/html/opinionpoll/app/model/opinionpoll/opinion.php on line 7
+2019-05-19 5:45:40 - PHP Warning:  Creating default object from empty value in /var/www/html/opinionpoll/app/model/opinionpoll/opinion.php on line 7
+2019-05-19 5:45:40 - PHP Notice:  Object of class stdClass could not be converted to int in /var/www/html/opinionpoll/app/model/opinionpoll/opinion.php on line 11
+2019-05-19 5:45:40 - PHP Notice:  Undefined variable: answer_id in /var/www/html/opinionpoll/app/model/opinionpoll/opinion.php on line 11
+2019-05-19 5:47:13 - PHP Notice:  Undefined variable: answer_id in /var/www/html/opinionpoll/app/model/opinionpoll/opinion.php on line 7
+2019-05-19 5:47:13 - PHP Warning:  Creating default object from empty value in /var/www/html/opinionpoll/app/model/opinionpoll/opinion.php on line 7
+2019-05-19 5:47:13 - PHP Notice:  Object of class stdClass could not be converted to int in /var/www/html/opinionpoll/app/model/opinionpoll/opinion.php on line 8
+2019-05-19 5:47:13 - PHP Notice:  Undefined variable: answer_id in /var/www/html/opinionpoll/app/model/opinionpoll/opinion.php on line 8
+2019-05-19 5:47:13 - PHP Notice:  Object of class stdClass could not be converted to int in /var/www/html/opinionpoll/app/model/opinionpoll/opinion.php on line 11
+2019-05-19 5:47:13 - PHP Notice:  Undefined variable: answer_id in /var/www/html/opinionpoll/app/model/opinionpoll/opinion.php on line 11
+2019-05-19 5:48:03 - PHP Notice:  Undefined variable: answer_id in /var/www/html/opinionpoll/app/model/opinionpoll/opinion.php on line 7
+2019-05-19 5:48:03 - PHP Warning:  Creating default object from empty value in /var/www/html/opinionpoll/app/model/opinionpoll/opinion.php on line 7
+2019-05-19 5:48:03 - PHP Notice:  Object of class stdClass could not be converted to int in /var/www/html/opinionpoll/app/model/opinionpoll/opinion.php on line 8
+2019-05-19 5:48:03 - PHP Notice:  Undefined variable: answer_id in /var/www/html/opinionpoll/app/model/opinionpoll/opinion.php on line 8
+2019-05-19 5:48:03 - PHP Notice:  Object of class stdClass could not be converted to int in /var/www/html/opinionpoll/app/model/opinionpoll/opinion.php on line 9
+2019-05-19 5:48:03 - PHP Notice:  Undefined variable: answer_id in /var/www/html/opinionpoll/app/model/opinionpoll/opinion.php on line 9
+2019-05-19 5:48:03 - PHP Notice:  Object of class stdClass could not be converted to int in /var/www/html/opinionpoll/app/model/opinionpoll/opinion.php on line 12
+2019-05-19 5:48:03 - PHP Notice:  Undefined variable: answer_id in /var/www/html/opinionpoll/app/model/opinionpoll/opinion.php on line 12
+2019-05-19 5:57:17 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE question_id = '2' AND answer_id = '5'' at line 1<br />Error No: 1064<br />INSERT INTO results SET vote = vote+1 WHERE question_id = '2' AND answer_id = '5' in /var/www/html/opinionpoll/system/library/db/mysqli.php on line 40
+2019-05-19 5:57:18 - PHP Notice:  Undefined index: vote in /var/www/html/opinionpoll/app/controller/opinionpoll/opinion.php on line 26
+2019-05-19 5:57:56 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE question_id = '1' AND answer_id = '3'' at line 1<br />Error No: 1064<br />INSERT INTO results SET vote = vote+1 WHERE question_id = '1' AND answer_id = '3' in /var/www/html/opinionpoll/system/library/db/mysqli.php on line 40
+2019-05-19 5:57:56 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE question_id = '2' AND answer_id = '6'' at line 1<br />Error No: 1064<br />INSERT INTO results SET vote = vote+1 WHERE question_id = '2' AND answer_id = '6' in /var/www/html/opinionpoll/system/library/db/mysqli.php on line 40
+2019-05-19 5:58:02 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE question_id = '1' AND answer_id = '4'' at line 1<br />Error No: 1064<br />INSERT INTO results SET vote = vote+1 WHERE question_id = '1' AND answer_id = '4' in /var/www/html/opinionpoll/system/library/db/mysqli.php on line 40
+2019-05-19 5:58:02 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE question_id = '2' AND answer_id = '6'' at line 1<br />Error No: 1064<br />INSERT INTO results SET vote = vote+1 WHERE question_id = '2' AND answer_id = '6' in /var/www/html/opinionpoll/system/library/db/mysqli.php on line 40
+2019-05-19 5:58:07 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE question_id = '1' AND answer_id = '4'' at line 1<br />Error No: 1064<br />INSERT INTO results SET vote = vote+1 WHERE question_id = '1' AND answer_id = '4' in /var/www/html/opinionpoll/system/library/db/mysqli.php on line 40
+2019-05-19 5:58:07 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE question_id = '2' AND answer_id = '6'' at line 1<br />Error No: 1064<br />INSERT INTO results SET vote = vote+1 WHERE question_id = '2' AND answer_id = '6' in /var/www/html/opinionpoll/system/library/db/mysqli.php on line 40
+2019-05-19 5:58:13 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE question_id = '1' AND answer_id = '1'' at line 1<br />Error No: 1064<br />INSERT INTO results SET vote = vote+1 WHERE question_id = '1' AND answer_id = '1' in /var/www/html/opinionpoll/system/library/db/mysqli.php on line 40
+2019-05-19 5:58:13 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE question_id = '2' AND answer_id = '6'' at line 1<br />Error No: 1064<br />INSERT INTO results SET vote = vote+1 WHERE question_id = '2' AND answer_id = '6' in /var/www/html/opinionpoll/system/library/db/mysqli.php on line 40
+2019-05-19 5:58:17 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE question_id = '2' AND answer_id = '5'' at line 1<br />Error No: 1064<br />INSERT INTO results SET vote = vote+1 WHERE question_id = '2' AND answer_id = '5' in /var/www/html/opinionpoll/system/library/db/mysqli.php on line 40
+2019-05-19 5:58:21 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE question_id = '1' AND answer_id = '3'' at line 1<br />Error No: 1064<br />INSERT INTO results SET vote = vote+1 WHERE question_id = '1' AND answer_id = '3' in /var/www/html/opinionpoll/system/library/db/mysqli.php on line 40
+2019-05-19 5:58:21 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE question_id = '2' AND answer_id = '5'' at line 1<br />Error No: 1064<br />INSERT INTO results SET vote = vote+1 WHERE question_id = '2' AND answer_id = '5' in /var/www/html/opinionpoll/system/library/db/mysqli.php on line 40
+2019-05-19 5:59:07 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE question_id = '1' AND answer_id = '4'' at line 1<br />Error No: 1064<br />INSERT INTO results SET vote = vote+1 WHERE question_id = '1' AND answer_id = '4' in /var/www/html/opinionpoll/system/library/db/mysqli.php on line 40
+2019-05-19 5:59:07 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE question_id = '2' AND answer_id = '6'' at line 1<br />Error No: 1064<br />INSERT INTO results SET vote = vote+1 WHERE question_id = '2' AND answer_id = '6' in /var/www/html/opinionpoll/system/library/db/mysqli.php on line 40
+2019-05-19 5:59:33 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE question_id = '1' AND answer_id = '4'' at line 1<br />Error No: 1064<br />INSERT INTO results SET vote = 'vote+1' WHERE question_id = '1' AND answer_id = '4' in /var/www/html/opinionpoll/system/library/db/mysqli.php on line 40
+2019-05-19 5:59:33 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE question_id = '2' AND answer_id = '6'' at line 1<br />Error No: 1064<br />INSERT INTO results SET vote = 'vote+1' WHERE question_id = '2' AND answer_id = '6' in /var/www/html/opinionpoll/system/library/db/mysqli.php on line 40
+2019-05-19 5:59:54 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE question_id = '1' AND answer_id = '4'' at line 1<br />Error No: 1064<br />INSERT INTO results SET vote = vote + 1 WHERE question_id = '1' AND answer_id = '4' in /var/www/html/opinionpoll/system/library/db/mysqli.php on line 40
+2019-05-19 5:59:54 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE question_id = '2' AND answer_id = '6'' at line 1<br />Error No: 1064<br />INSERT INTO results SET vote = vote + 1 WHERE question_id = '2' AND answer_id = '6' in /var/www/html/opinionpoll/system/library/db/mysqli.php on line 40
+2019-05-19 6:35:02 - PHP Notice:  Undefined index: titile in /var/www/html/opinionpoll/app/view/template/opinionpoll/results.tpl on line 32
+2019-05-19 7:28:36 - PHP Notice:  Undefined variable: base in /var/www/html/opinionpoll/app/view/template/error/not_found.tpl on line 12
+2019-05-19 7:28:39 - PHP Notice:  Undefined variable: base in /var/www/html/opinionpoll/app/view/template/error/not_found.tpl on line 12
+2019-05-19 7:30:08 - PHP Notice:  Undefined variable: base in /var/www/html/opinionpoll/app/view/template/error/not_found.tpl on line 12
+2019-05-19 7:30:10 - PHP Notice:  Undefined variable: base in /var/www/html/opinionpoll/app/view/template/error/not_found.tpl on line 12
+2019-05-19 7:30:12 - PHP Notice:  Undefined variable: base in /var/www/html/opinionpoll/app/view/template/error/not_found.tpl on line 12
